@@ -67,7 +67,7 @@ The dashboard reveals a robust e-commerce operation with strong technology sales
 
 ## 📂 Repository Contents
 - `dashboard.pbix` – Power BI dashboard file
-- `sales_data.zip` – Raw sales data
+- `sales_data.xlsl` – Raw sales data
 - `README.md` – Project documentation
 
 ---
